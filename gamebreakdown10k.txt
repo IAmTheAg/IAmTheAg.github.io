@@ -1,4 +1,4 @@
-Col1,Col2,Col3,Col4,Col5,Col6,Col7,Col8,Col9,Col10,Col11,Col12,Col13,Col14,Col15,Col16,Col17,Col18,Col19,Col20,Col21,Col22,Col23,Col24,Col26
+Winner,Welo,Belo,turncount,PawnAdv10,KnightAdv10,BishopAdv10,RookAdv10,QueenAdv10,PawnAdv20,KnightAdv20,BishopAdv20,RookAdv20,QueenAdv20,PawnAdv30,KnightAdv30,BishopAdv30,RookAdv30,QueenAdv30,PawnAdv,KnightAdv,BishopAdv,RookAdv,QueenAdv,nool
 W,2851,0,67,1,0,0,0,0,2,-7,8,0,1,2,-7,9,0,1,14,-6,9,3,1,
 W,2851,0,53,1,0,0,0,0,1,-1,0,0,0,-8,-4,4,0,0,-21,-8,26,-1,1,
 W,2851,0,57,0,0,0,0,0,0,0,0,0,0,-1,4,-3,0,0,-20,27,-6,0,0,
